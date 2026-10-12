@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Mahmoud Moaaz 👋
 
-<!--
-**mahmoudmoaaz753-crypto/mahmoudmoaaz753-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Damanhour University
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst | Data Science & Machine Learning Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- Interested in turning data into meaningful insights.
+- Learning and building projects in Data Analysis and Machine Learning.
+- Focused on problem-solving and continuous learning.
+
+### 🛠️ Skills & Tools
+- **Programming:** Python, C++, Java
+- **Data Analysis:** Pandas, NumPy, SQL
+- **Visualization:** Matplotlib, Seaborn, Power BI
+- **Machine Learning:** Scikit-learn
+
+### 📌 Current Goals
+- Build practical Data Analysis projects.
+- Improve my Machine Learning skills.
+- Develop a strong portfolio on GitHub.
+
+### 📫 Connect with Me
+- GitHub: [@mahmoudmoaaz753-crypto](https://github.com/mahmoudmoaaz753-crypto)
